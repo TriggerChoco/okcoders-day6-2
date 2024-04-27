@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo 'We really need to add some testing!!! Shit'",
-    "natething": "echo 'Nate is cool'"
+    "natething": "echo 'Nate is cool'",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
