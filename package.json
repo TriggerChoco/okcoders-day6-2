@@ -1,0 +1,19 @@
+{
+  "name": "okcoders-day6-2",
+  "version": "1.0.0",
+  "description": "Command line todo application with all the features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'We really need to add some testing!!! Shit'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TriggerChoco/okcoders-day6-2.git"
+  },
+  "author": "Nate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TriggerChoco/okcoders-day6-2/issues"
+  },
+  "homepage": "https://github.com/TriggerChoco/okcoders-day6-2#readme"
+}
