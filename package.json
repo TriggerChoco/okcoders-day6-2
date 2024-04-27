@@ -4,7 +4,8 @@
   "description": "Command line todo application with all the features",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'We really need to add some testing!!! Shit'"
+    "test": "echo 'We really need to add some testing!!! Shit'",
+    "natething": "echo 'Nate is cool'"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/TriggerChoco/okcoders-day6-2/issues"
   },
-  "homepage": "https://github.com/TriggerChoco/okcoders-day6-2#readme"
+  "homepage": "https://github.com/TriggerChoco/okcoders-day6-2#readme",
+  "dependencies": {
+    "prompts": "^2.4.2"
+  }
 }
